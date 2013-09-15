@@ -18,7 +18,7 @@
 #    Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 
 import zipfile, os, urllib2, urllib, logging, traceback, httplib
-from BeautifulSoup import BeautifulSoup
+from bs4 import BeautifulSoup
 
 import SubtitleDatabase
 

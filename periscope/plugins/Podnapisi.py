@@ -19,7 +19,7 @@
 
 import zipfile, os, urllib2, urllib, traceback, logging 
 
-from BeautifulSoup import BeautifulSoup
+from bs4 import BeautifulSoup
 
 import SubtitleDatabase
 

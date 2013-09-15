@@ -32,7 +32,7 @@ import shutil
 import ConfigParser
 
 import cookielib, urllib2, urllib, sys, re, os, webbrowser, time, unicodedata, logging
-from BeautifulSoup import BeautifulSoup, BeautifulStoneSoup
+from bs4 import BeautifulSoup, BeautifulStoneSoup
 from htmlentitydefs import name2codepoint as n2cp
 
 #from utilities import log
